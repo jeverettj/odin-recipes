@@ -1,1 +1,0 @@
-This is a project from The Odin Project (a project squared if you will) in which I will be using HTML to create a basic recipes website.
